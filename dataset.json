@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "--Distressed Venues with Verified Decline--\n\nEstablished, well-reviewed restaurants, bars, and cafes now experiencing a sharp and confirmed drop in Transaction Velocity & Customer Sentiment.\n\nThese are previously high-performing venues where the 360-day sentiment was strong, but 90-day sentiment has crashed by 30%+.\n\nThat's a leading indicator of operational trouble, ownership fatigue, or market-ready distress.\n\nEvery listing is an independent hospitality and food & beverage location (no nation-wide chains), confirmed active with 100+ total reviews and an \"Active Heartbeat\" signal within the last 90 days.",
   "config_name": "Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in South Dakota",
-  "export_job_id": "b5455ab6-ed60-448d-97b1-d8faa7480397",
+  "export_job_id": "1d64e7e7-f836-4d2f-b50c-3d22ee11b52b",
   "github_org": "Beamstation-Datasets",
   "id_short": 617129,
   "location_name": "South Dakota",
   "location_type": "state",
   "repo_name": "independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-617129",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/617129/beamstation_617129_food_and_drink-us-sd_SAMPLE_DIST.csv",
-  "sample_pct": 8.7,
+  "sample_pct": 9.38,
   "sample_records": 6,
-  "sample_sha256": "cb842e3a1d3a7a7217a02b1ed3abd3528887c7f0ac33322f0ccc6d75f4cab504",
-  "sample_size_bytes": 39876,
-  "total_records": 69,
-  "updated_at": "2026-04-09T19:36:44.659416+00:00"
+  "sample_sha256": "735f97600bceb60ba1d2be5e9f5e8bfb8d18e4aba633f6dd709cc191dc8e0827",
+  "sample_size_bytes": 37591,
+  "total_records": 64,
+  "updated_at": "2026-04-16T23:10:31.974703+00:00"
 }
