@@ -9,9 +9,9 @@
 | Dataset ID | `617129` |
 | Location | South Dakota |
 | Category | Food and Drink |
-| Full dataset size | 80 records |
-| Free sample size | 8 records (10.0%) |
-| Last export | 2026-04-23T17:36:48.248784+00:00 |
+| Full dataset size | 82 records |
+| Free sample size | 8 records (9.76%) |
+| Last export | 2026-05-01T05:56:00.889101+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-617129/releases/download/sample-latest/beamstation_617129_food_and_drink-us-sd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
